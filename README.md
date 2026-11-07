@@ -1,3 +1,125 @@
+<a id="persian"></a>
+
+<div dir="rtl" lang="fa">
+
+# هنر خودآموزی — The Craft of Self-Teaching
+
+[فارسی](#persian) · [متن اصلی چینی / 中文原文](#original)
+
+> کسی که توانایی خودآموزی ندارد، آینده‌ای ندارد.
+
+**نویسندهٔ اثر اصلی: لی شیائولای — Li Xiaolai (李笑来)**
+
+نویسنده از **Huo Ju (霍炬)**، [@virushuo](https://github.com/virushuo)، و **Hong Qiangning (洪强宁)**، [@hongqn](https://github.com/hongqn)، دو دوست و راهنمای خود، بابت کمک فراوانشان در نگارش این کتاب سپاسگزاری کرده است.
+
+> **یادداشت مترجم — توضیح تکمیلی:** این بخش، راهنمای فارسیِ مطالعهٔ کتاب و ترجمه‌های موجود است. متن اصلی معرفی کتاب، نمونهٔ کد، فهرست کامل و انتساب منابع در بخش چینیِ پایین صفحه بدون تغییر حفظ شده‌اند. توضیح وضعیت ترجمه و محدودیت‌های آن، افزودهٔ مترجم است و به نویسنده نسبت داده نمی‌شود.
+
+## شروع مطالعه به فارسی
+
+- [جلد، معرفی نویسنده و فهرست کامل فارسی](fa/markdown/00.cover.md)
+- [پیشگفتار فارسی](fa/markdown/01.preface.md)
+- [چطور ثابت کنید که واقعاً این کتاب را خوانده‌اید؟ — ثبت مسیر یادگیری و راهنمای مشارکت](fa/markdown/02.proof-of-work.md)
+- [فهرست کامل فارسی همهٔ فصل‌ها و پیوست‌ها](fa/markdown/TOC.md)
+- [معرفی و راهنمای کتاب به فارسی](fa/markdown/README.md)
+- [گزارش کلی پوشش ترجمه و وضعیت بازبینی](fa/markdown/translation-status.md)
+- [گزارش وضعیت بازبینی و واژه‌نامهٔ بخش دوم](fa/markdown/Part.2.translation-status.md)
+- [گزارش وضعیت بازبینی و واژه‌نامهٔ بخش سوم](fa/markdown/Part.3.translation-status.md)
+- [فهرست کامل کتاب به زبان اصلی چینی](markdown/TOC.md)
+
+برای مطالعهٔ ترجمه‌های موجود، نسخهٔ Markdown مبنای کار است و نیازی به اجرای Notebookها ندارید. نویسنده برای مطالعه و اجرای نسخهٔ اصلی، نصب محلی JupyterLab را پیشنهاد کرده است؛ [راهنمای نصب و تنظیمات به فارسی](fa/markdown/T-appendix.jupyter-installation-and-setup.md) و [نسخهٔ اصلی چینی آن](markdown/T-appendix.jupyter-installation-and-setup.md) در دسترس‌اند.
+
+> **یادداشت مترجم — توضیح تکمیلی:** راهنمای نصب و دستورهای نسخهٔ اصلی مربوط به محیط زمان نگارش کتاب‌اند؛ سازگاری همهٔ آن‌ها با نسخه‌های امروزی تأیید نشده است. نسخه‌های فارسیِ موجود در این مخزن در قالب Markdown هستند؛ لینک‌های Notebook در بخش چینیِ پایین صفحه به نسخه‌های اصلی اشاره می‌کنند.
+
+## فصل‌های فارسی بخش اول
+
+- **A** — [چرا حتماً باید توانایی خودآموزی داشته باشیم؟](fa/markdown/Part.1.A.better.teachyourself.md)
+- **B** — [چرا برنامه‌نویسی را نقطهٔ ورود به خودآموزی قرار می‌دهیم؟](fa/markdown/Part.1.B.why.start.from.learning.coding.md)
+- **C** — [یاد گرفتن مهارتی تازه فقط با خواندن](fa/markdown/Part.1.C.must.learn.sth.only.by.reading.md)
+- **D** — [چند آمادگی پیش از شروع خواندن](fa/markdown/Part.1.D.preparation.for.reading.md)
+- **E1** — [درگاه ورود](fa/markdown/Part.1.E.1.entrance.md)
+- **E2** — [مقدارها و عملیات متناظر با آن‌ها](fa/markdown/Part.1.E.2.values-and-their-operators.md)
+- **E3** — [Control flow](fa/markdown/Part.1.E.3.controlflow.md)
+- **E4** — [Functionها](fa/markdown/Part.1.E.4.functions.md)
+- **E5** — [Stringها](fa/markdown/Part.1.E.5.strings.md)
+- **E6** — [Containerهای داده](fa/markdown/Part.1.E.6.containers.md)
+- **E7** — [فایل‌ها](fa/markdown/Part.1.E.7.files.md)
+- **F** — [چطور با دانشی که پر از Forward Reference است، با آرامش روبه‌رو شویم؟](fa/markdown/Part.1.F.deal-with-forward-references.md)
+- **G** — [آموزش رسمی: The Python Tutorial](fa/markdown/Part.1.G.The-Python-Tutorial-local.md)
+
+## فصل‌های فارسی بخش دوم
+
+- **A** — [دست‌وپاچلفتی بودن و صبوری](fa/markdown/Part.2.A.clumsy-and-patience.md)
+- **B** — [تمرین هدفمند](fa/markdown/Part.2.B.deliberate-practicing.md)
+- **C** — [چرا از نوشتن function شروع کنیم؟](fa/markdown/Part.2.C.why-start-from-writing-functions.md)
+- **D.1** — [دربارهٔ parameterها و argumentها (بخش اول)](fa/markdown/Part.2.D.1-args.md)
+- **D.2** — [دربارهٔ parameterها و argumentها (بخش دوم)](fa/markdown/Part.2.D.2-aargs.md)
+- **D.3** — [نام دیگر و function بی‌نام](fa/markdown/Part.2.D.3-lambda.md)
+- **D.4** — [functionهای دارای recursion](fa/markdown/Part.2.D.4-recursion.md)
+- **D.5** — [مستندات function](fa/markdown/Part.2.D.5-docstrings.md)
+- **D.6** — [ذخیره کردن functionها در فایل](fa/markdown/Part.2.D.6-modules.md)
+- **D.7** — [توسعه با روش Test Driven Development](fa/markdown/Part.2.D.7-tdd.md)
+- **D.8** — [فایل‌های اجرایی Python](fa/markdown/Part.2.D.8-main.md)
+- **E** — [فکر کردن هدفمند](fa/markdown/Part.2.E.deliberate-thinking.md)
+
+## فصل‌های فارسی بخش سوم
+
+- **A** — [غلبه بر بخش‌های دشوار](fa/markdown/Part.3.A.conquering-difficulties.md)
+- **B.1** — [class — Object-Oriented Programming](fa/markdown/Part.3.B.1.classes-1.md)
+- **B.2** — [class — پیاده‌سازی در Python](fa/markdown/Part.3.B.2.classes-2.md)
+- **B.3** — [ابزارهای function](fa/markdown/Part.3.B.3.decorator-iterator-generator.md)
+- **B.4** — [Regular Expression](fa/markdown/Part.3.B.4.regex.md)
+- **B.5** — [BNF و EBNF](fa/markdown/Part.3.B.5.bnf-ebnf-pebnf.md)
+- **C** — [خردکردن مسئله](fa/markdown/Part.3.C.breaking-good-and-bad.md)
+- **D** — [توهمِ نیاز ضروری](fa/markdown/Part.3.D.indispensable-illusion.md)
+- **E** — [جامع‌بودن؛ مرتبه‌ای در خودآموزی](fa/markdown/Part.3.E.to-be-thorough.md)
+- **F** — [معاشرتِ خودآموزها](fa/markdown/Part.3.F.social-selfteaching.md)
+- **G** — [این، عصر طلاییِ خودآموزهاست](fa/markdown/Part.3.G.the-golden-age-and-google.md)
+- **H** — [جلوگیری از جابه‌جاییِ کانونِ توجه](fa/markdown/Part.3.H.prevent-focus-drifting.md)
+
+## فصل‌های پایانی فارسی
+
+- **Q** — [چگونه به فردی توانمند در ارتباط تبدیل شویم؟](fa/markdown/Q.good-communiation.md)
+- **R** — [نقطهٔ پایان خودآموز](fa/markdown/R.finale.md)
+- **S** — [گام بعدی چیست؟](fa/markdown/S.whats-next.md)
+
+## پیوست‌های فارسی
+
+- [نصب و تنظیم Visual Studio Code](fa/markdown/T-appendix.editor.vscode.md)
+- [آشنایی با Git](fa/markdown/T-appendix.git-introduction.md)
+- [نصب و تنظیم JupyterLab](fa/markdown/T-appendix.jupyter-installation-and-setup.md)
+- [این نمادها چه معنایی دارند؟](fa/markdown/T-appendix.symbols.md)
+
+## وضعیت ترجمه و شیوهٔ بازبینی
+
+> **یادداشت مترجم — توضیح تکمیلی:** هر ۴۹ فایل Markdown کتاب اکنون نسخهٔ فارسی غیرخالی دارد. فصل‌های پایانی، چهار پیوست و معرفی کتاب نیز ترجمه و با اصل تطبیق داده شده‌اند. این پوشش کامل فایل‌ها به معنی بازبینی تازهٔ جمله‌به‌جملهٔ تمام ترجمه‌های قبلی یا تأیید نهایی نیست. شرح دامنهٔ بررسی و محدودیت‌ها در [گزارش کلی وضعیت ترجمه](fa/markdown/translation-status.md) ثبت شده است.
+
+> **یادداشت مترجم — توضیح تکمیلی:** هر ۱۳ فصل بخش اول و هر ۱۲ فصل بخش دوم ترجمه و بازبینی شده‌اند؛ موارد نیازمند بررسی در یادداشت‌های مترجم مشخص‌اند. این ترجمه‌ها نهایی نیستند و وضعیت بازبینی به معنی تأیید نهاییِ همهٔ ادعاها، اجرای مثال‌ها یا سازگاری با ابزارهای امروز نیست. جزئیات بررسی بخش دوم و واژه‌نامهٔ آن در [گزارش وضعیت بخش دوم](fa/markdown/Part.2.translation-status.md) آمده است.
+
+> **یادداشت مترجم — توضیح تکمیلی:** هر ۱۲ فصل بخش سوم نیز ترجمه و از نظر نثر، معنا و کامل‌بودن با اصل چینی مقابله و بازبینی اولیه شده‌اند؛ نهایی نیستند. در بررسی مستقل، ۶۸ بلوک کد و خروجی و ۴۶ بلوک خروجیِ تورفته بدون تغییر با اصل تطبیق داده شدند و ساختار عنوان‌ها، مقصدهای محلی پیوندها و ارجاع‌های پاورقی بررسی شدند. متن داخل تصاویر و نمایش راست‌به‌چپ به‌صورت بصری بررسی نشده‌اند، پیوندهای خارجی به‌صورت زنده آزموده نشده‌اند و مثال‌ها به‌طور کامل اجرا نشده‌اند. جزئیات محدودیت‌ها و موارد نیازمند بررسی در [گزارش وضعیت بخش سوم](fa/markdown/Part.3.translation-status.md) آمده است؛ Notebookهای این بخش ترجمه یا هماهنگ‌سازی نشده‌اند.
+
+- اصطلاحات تخصصی انگلیسی، کدها و خروجی‌های ثبت‌شده حفظ شده‌اند و توضیح‌های افزوده از متن نویسنده متمایزند.
+- ساختار فصل‌ها، تطابق بلوک‌های کد و خروجی با اصل و مقصد ارجاع‌های محلی بررسی شده است.
+- مثال‌ها به‌طور کامل اجرا نشده‌اند؛ نمایش بصری راست‌به‌چپ و متن ترکیبی در مرورگر و دسترس‌پذیری زندهٔ پیوندهای بیرونی نیز آزمایش نشده است.
+- لینک مستقیم تمام بخش‌های فارسی کتاب در همین صفحه آمده است؛ نسخه‌های اصلی نیز از طریق [فهرست اصل چینی](markdown/TOC.md) در دسترس‌اند.
+- جلد و بخش «چطور ثابت کنید که واقعاً این کتاب را خوانده‌اید؟» در قالب Markdown ترجمه و با متن اصلی مقابله و بازبینی شده‌اند، اما نهایی نیستند. کدها و دستورها حفظ شده‌اند؛ اجرا و بررسی بصری انجام نشده است. اطلاعات قدیمی، آمار بدون منبع و هشدارهای انتشار در یادداشت‌های مترجم مشخص‌اند.
+- برای کار روی ترجمه، [راهنمای ترجمه و بازبینی پروژه](AGENT.md) را بخوانید. [ترجمهٔ فارسی راهنمای مشارکت نویسنده](fa/markdown/02.proof-of-work.md) و [اصل چینی آن](markdown/02.proof-of-work.md) در دسترس‌اند؛ این راهنما مجوز انتشار ترجمه محسوب نمی‌شود.
+
+## مجوز و محدودیت انتشار ترجمه
+
+مجوز اعلام‌شدهٔ کتاب **[CC BY-NC-ND 3.0](https://creativecommons.org/licenses/by-nc-nd/3.0/)** است. نام نویسنده و انتساب منابع اصلی باید حفظ شود.
+
+> **یادداشت مترجم — توضیح تکمیلی:** ترجمهٔ فارسی در وضعیت فعلی فقط برای **مطالعهٔ شخصی و به‌صورت محلی** تهیه شده است. تا دریافت اجازهٔ لازم از صاحب حق، آن را منتشر نکنید و به مخزن یا فورک عمومی نفرستید. بی‌پاسخ ماندن درخواست اجازه به معنی موافقت نیست. افزودن این معرفی فارسی نیز به معنی دریافت اجازهٔ انتشار نیست.
+
+</div>
+
+---
+
+<a id="original"></a>
+
+## 中文原文 — متن اصلی چینی
+
+[بازگشت به بخش فارسی](#persian)
+
 # the-craft-of-selfteaching
 
 > One has no future if one couldn't teach themself<a href='#fn1' name='fn1b'><sup>[1]</sup></a>.
